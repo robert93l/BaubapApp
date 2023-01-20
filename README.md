@@ -8,6 +8,6 @@ Fake Login Using MVVM, CLEAN ARCHITECTURE AND INJECTION DEPENDENCIES
 
 ## User For Success Login
 
-    email: roberto93lazaro@gmail.com \n
+    email: roberto93lazaro@gmail.com 
     password: Password12345
 
