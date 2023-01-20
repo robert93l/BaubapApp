@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BaubapApp</string>
+
+    <string name="title_login_fragment">Login</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="label_login_success">User successfully logged in WELCOME</string>
+    <string name="error_invalid_email">Not a valid email</string>
+    <string name="error_invalid_password">Password must be >8 characters</string>
+    <string name="error_login_failed">Login failed</string>
+    <string name="error_empty_email">Email can´t be blank</string>
+    <string name="error_empty_password">Password can´t be blank</string>
+
+
+
+
+
+</resources>
